@@ -22,7 +22,7 @@ Bu işlem yapıldıktan sonra kullanıcıya değerin artmış olduğuna dair bir
 
 **İzinler** 
 
-<img src="https://github.com/cmlcrn17/Swift5-BackgroundTaskNotification/blob/master/Permission1.png" width="200">
+<img src="https://github.com/cmlcrn17/Swift5-BackgroundTaskNotification/blob/master/Permission1.png">
 
 
 
