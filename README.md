@@ -22,7 +22,7 @@ Swift 5 üzerinde arka planda görev çalıştırmak ve bildirim göndermek.
 
 ## İzinler ##
 
-<center><img src="https://github.com/cmlcrn17/Swift5-BackgroundTaskNotification/blob/master/Permission1.png"><center>
+<img src="https://github.com/cmlcrn17/Swift5-BackgroundTaskNotification/blob/master/Permission1.png">
 
 
 
