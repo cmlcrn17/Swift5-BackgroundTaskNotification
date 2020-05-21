@@ -16,13 +16,13 @@ Method hafızaya alınmış olan bir değişken değerini +1 arttırır ve yeni 
 
 Bu işlem yapıldıktan sonra kullanıcıya değerin artmış olduğuna dair bir bildirim gönderilir. 
 
-![Uygulama Çıktısı]<img src="https://github.com/cmlcrn17/Swift5-BackgroundTaskNotification/blob/master/BackgroundTask1.png" width="48">
+<img src="https://github.com/cmlcrn17/Swift5-BackgroundTaskNotification/blob/master/BackgroundTask1.png" width="200">
 
 
 
 **İzinler** 
 
-![Uygulamaya Mod Eklenir]<img src="https://github.com/cmlcrn17/Swift5-BackgroundTaskNotification/blob/master/Permission1.png" width="48">
+<img src="https://github.com/cmlcrn17/Swift5-BackgroundTaskNotification/blob/master/Permission1.png" width="200">
 
 
 
