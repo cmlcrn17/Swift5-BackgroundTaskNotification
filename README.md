@@ -3,7 +3,7 @@
 Teknik Özellikler: SwiftUI, Swift 5, XCode 11.4
 
 **Amaç**
-Swift 5 üzerinde arka planda görev çalıştırma ve bildirim göndermek.
+Swift 5 üzerinde arka planda görev çalıştırmak ve bildirim göndermek.
 
 **Senaryo** 
 
