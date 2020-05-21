@@ -10,17 +10,17 @@ Swift 5 üzerinde arka planda görev çalıştırmak ve bildirim göndermek.
 
 ## Senaryo ##
 
-Uygulama belirtilen parametrelere göre düzenli olarak arka planda (uygulamayı öldürseniz bile) methodu çalıştırır. 
+1. Uygulama belirtilen parametrelere göre düzenli olarak arka planda (uygulamayı öldürseniz bile) methodu çalıştırır. 
 
-Method hafızaya alınmış olan bir değişken değerini +1 arttırır ve yeni değeri hafızaya set eder.
+2. Method hafızaya alınmış olan bir değişken değerini +1 arttırır ve yeni değeri hafızaya set eder.
 
-Bu işlem yapıldıktan sonra kullanıcıya değerin artmış olduğuna dair bir bildirim gönderilir. 
+3. Bu işlem yapıldıktan sonra kullanıcıya değerin artmış olduğuna dair bir bildirim gönderilir. 
 
 <img src="https://github.com/cmlcrn17/Swift5-BackgroundTaskNotification/blob/master/BackgroundTask1.png" width="200">
 
 
 
-**İzinler** 
+## İzinler ##
 
 <img src="https://github.com/cmlcrn17/Swift5-BackgroundTaskNotification/blob/master/Permission1.png">
 
